@@ -1,0 +1,59 @@
+.section-about{
+    color:$color-black;
+    background-image: linear-gradient(to right bottom,
+    rgba($color-primary, 0.719),
+    rgba($color-secondary, 0.616)),
+     url(../img/backkk4.jpg);
+    padding: 5rem 0rem 20rem 0rem;
+    background-color: ivory;
+    background-size: cover;
+
+
+}
+.section-bestsellers{
+    padding: 3rem 0rem 8rem 0rem;
+    background-image: linear-gradient(to right bottom,
+                                      rgba($color-primary, 0.719),
+                                      rgba($color-secondary, 0.616)),
+                                       url(../img/backkkkk.jpg);
+    background-size: cover;
+}
+.section-surprises{
+    padding: 3rem 10rem 20rem 25rem;
+    background-image: linear-gradient(to right bottom,
+    rgba($color-primary, 0.719),
+    rgba($color-secondary, 0.616)),
+     url(../img/backk3.jpg);
+     background-size: cover;
+    
+}
+
+.section-rev{
+    padding: 3rem 0 8rem 0;
+    background-image: linear-gradient(to right bottom,
+    rgba($color-primary, 0.719),
+    rgba($color-secondary, 0.616)),
+    url(../img/customer.jpeg);
+    background-size: cover;
+
+}
+
+.section-addrev{
+    padding: 5rem 10rem 10rem 10rem;
+    background-color:white;
+    
+}
+
+.addrev{
+    background-image: linear-gradient(to right bottom,
+                                      rgba($color-primary, 0.4),
+                                      rgba($color-secondary, 0.4)),
+                                       url(../img/back.jpg);
+    background-size: 100%;
+    
+    height:50rem; 
+    box-sizing: border-box;
+    box-shadow: 0 2.5rem 4rem rgba($color-black,.4);
+
+
+}

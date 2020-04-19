@@ -1,0 +1,27 @@
+.header{
+    height: 100vh;
+    background-image: linear-gradient(to right bottom,
+                                      rgba($color-primary, 0.719),
+                                      rgba($color-secondary, 0.616)),
+                                       url(../img/background2.jpg);
+    background-size: cover;
+    background-position: top;
+
+    &__logobox{
+        position: absolute;
+    top: 1.5rem;
+    left: 2rem;
+    }
+
+    &__logo{
+        height: 10rem;
+     }
+    
+    &__text-box{
+        position: absolute;
+        top: 25vh;
+        left: 60vh;
+        text-align: center;
+    }
+
+}

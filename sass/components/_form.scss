@@ -1,0 +1,23 @@
+.form{
+
+     padding: 2rem 20rem;
+     border-radius: 5rem;
+     
+
+    &__group{
+            font-size: 2rem;
+            font-family: inherit;
+            text-transform: uppercase;
+           
+
+            padding: .2rem 5rem;
+            border-radius: .2rem;
+            background-color: rgba($color-white,.8);
+            
+        }
+        
+    &__label{
+        float: left;
+    }
+}
+

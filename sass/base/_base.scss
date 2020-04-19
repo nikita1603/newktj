@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before
+    {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;   /*1rem=10px, root size is 16px*/
+    scroll-behavior: smooth;
+}
+
+body{
+    box-sizing: border-box;
+}

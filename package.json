@@ -1,0 +1,14 @@
+{
+  "name": "ktj-task1",
+  "version": "1.0.0",
+  "description": "making e-commercial webpage",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/task1.css -w"
+  },
+  "author": "nikita",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
